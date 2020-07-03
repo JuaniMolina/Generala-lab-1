@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1593734451 source:c:\users\user\desktop\generala\generala\generala3.1.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<string.h>
+	"rlutil.h"
+	"FuncionesGenerala3.1.h"
+	"windows.h"
+
+1571569938 c:\users\user\desktop\generala\generala\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1593734854 c:\users\user\desktop\generala\generala\funcionesgenerala3.1.h
+	"windows.h"
+	"rlutil.h"
+
